@@ -1,0 +1,10 @@
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\bin\Debug\FilteredDisplayTrial.exe.config
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\bin\Debug\FilteredDisplayTrial.exe
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\bin\Debug\FilteredDisplayTrial.pdb
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\obj\Debug\FilteredDisplayTrial.csprojAssemblyReference.cache
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\obj\Debug\FilteredDisplayTrial.DisplayCaptureForm.resources
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\obj\Debug\FilteredDisplayTrial.Properties.Resources.resources
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\obj\Debug\FilteredDisplayTrial.csproj.GenerateResource.cache
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\obj\Debug\FilteredDisplayTrial.csproj.CoreCompileInputs.cache
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\obj\Debug\FilteredDisplayTrial.exe
+C:\MJ_REM\FilteredDisplayTrial\FilteredDisplayTrial\obj\Debug\FilteredDisplayTrial.pdb
